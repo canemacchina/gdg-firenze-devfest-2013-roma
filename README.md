@@ -17,3 +17,6 @@ Ecco i tre sani principi
 *It should be composable: “It should be ready for anything.”*
 
 che ci auspichiamo di rispettare!
+
+
+Slide: https://docs.google.com/presentation/d/1ihHChDQ0jR6Rr7NC2OG9q0SG-7y1VKFiPijxBg6oOPM/edit
